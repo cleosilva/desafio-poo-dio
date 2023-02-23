@@ -1,3 +1,15 @@
+BOOTCAMP
+-Atributos
+nome
+descricao
+dataInicio
+dataFim
+conteudos
+devs
+-Métodos 
+não tem
+
+DEV
 nome
 conteudoInscritos
 conteudosConcluidos
@@ -19,5 +31,5 @@ MENTORIAS
 titulo
 descricao
 data
-Métodos
+-Métodos
 calcularXp()
